@@ -1,2 +1,2 @@
-# TestRepo1
-test repo just for training
+# TestRepo
+test repo just for trainings
